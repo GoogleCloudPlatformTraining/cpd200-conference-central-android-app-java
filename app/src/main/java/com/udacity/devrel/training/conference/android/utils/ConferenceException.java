@@ -13,7 +13,7 @@
  * limitations under the License.
  */
 
-package com.udacity.devrel.training.conference.android.utils;
+package com.google.training.cpd200.conference.android.utils;
 
 /**
  *

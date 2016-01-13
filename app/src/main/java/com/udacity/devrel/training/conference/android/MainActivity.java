@@ -13,14 +13,14 @@
  * limitations under the License.
  */
 
-package com.udacity.devrel.training.conference.android;
+package com.google.training.cpd200.conference.android;
 
 import com.google.android.gms.auth.GoogleAuthException;
 import com.google.android.gms.auth.GoogleAuthUtil;
 import com.google.android.gms.common.AccountPicker;
 import com.google.api.client.googleapis.extensions.android.gms.auth.GoogleAccountCredential;
-import com.udacity.devrel.training.conference.android.utils.ConferenceUtils;
-import com.udacity.devrel.training.conference.android.utils.Utils;
+import com.google.training.cpd200.conference.android.utils.ConferenceUtils;
+import com.google.training.cpd200.conference.android.utils.Utils;
 
 import android.accounts.Account;
 import android.accounts.AccountManager;
@@ -38,7 +38,7 @@ import android.widget.Toast;
 
 import java.io.IOException;
 
-import static com.udacity.devrel.training.conference.android.BuildConfig.DEBUG;
+import static com.google.training.cpd200.conference.android.BuildConfig.DEBUG;
 
 /**
  * Sample Android application for the Conference Central class for Google Cloud Endpoints.

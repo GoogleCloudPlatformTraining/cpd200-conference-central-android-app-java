@@ -14,12 +14,12 @@
  * limitations under the License.
  */
 
-package com.udacity.devrel.training.conference.android;
+package com.google.training.cpd200.conference.android;
 
-import com.udacity.devrel.training.conference.android.utils.ConferenceException;
-import com.udacity.devrel.training.conference.android.utils.ConferenceUtils;
-import com.udacity.devrel.training.conference.android.utils.DecoratedConference;
-import com.udacity.devrel.training.conference.android.utils.Utils;
+import com.google.training.cpd200.conference.android.utils.ConferenceException;
+import com.google.training.cpd200.conference.android.utils.ConferenceUtils;
+import com.google.training.cpd200.conference.android.utils.DecoratedConference;
+import com.google.training.cpd200.conference.android.utils.Utils;
 
 import android.content.Context;
 import android.support.v4.content.AsyncTaskLoader;

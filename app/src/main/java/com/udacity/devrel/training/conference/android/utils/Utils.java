@@ -13,14 +13,14 @@
  * limitations under the License.
  */
 
-package com.udacity.devrel.training.conference.android.utils;
+package com.google.training.cpd200.conference.android.utils;
 
 import com.google.android.gms.auth.GoogleAuthUtil;
 import com.google.android.gms.common.GooglePlayServicesUtil;
 import com.google.api.client.util.DateTime;
-import com.udacity.devrel.training.conference.android.R;
+import com.google.training.cpd200.conference.android.R;
 
-import com.appspot.udacity_extras.conference.model.Conference;
+import com.appspot.cpd200_extras.conference.model.Conference;
 
 import android.accounts.Account;
 import android.accounts.AccountManager;

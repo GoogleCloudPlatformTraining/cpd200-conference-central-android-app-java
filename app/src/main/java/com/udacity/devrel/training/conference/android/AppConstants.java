@@ -13,7 +13,7 @@
  * limitations under the License.
  */
 
-package com.udacity.devrel.training.conference.android;
+package com.google.training.cpd200.conference.android;
 
 import android.accounts.Account;
 import android.accounts.AccountManager;
@@ -22,7 +22,7 @@ import android.app.Dialog;
 import android.content.Context;
 
 // Replace the next import with your library (it will have your appspot project ID)
-import com.appspot.udacity_extras.conference.Conference;
+import com.appspot.cpd200_extras.conference.Conference;
 
 import com.google.android.gms.auth.GoogleAuthUtil;
 import com.google.android.gms.common.GooglePlayServicesUtil;

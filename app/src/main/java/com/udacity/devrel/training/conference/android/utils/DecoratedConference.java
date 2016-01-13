@@ -13,12 +13,12 @@
  * limitations under the License.
  */
 
-package com.udacity.devrel.training.conference.android.utils;
+package com.google.training.cpd200.conference.android.utils;
 
-import com.appspot.udacity_extras.conference.model.Conference;
+import com.appspot.cpd200_extras.conference.model.Conference;
 
 /**
- * A wrapper around the {@link com.appspot.udacity_extras.conference.model.Conference}
+ * A wrapper around the {@link com.appspot.cpd200_extras.conference.model.Conference}
  * to enable adding additional fields and operations.
  */
 public class DecoratedConference {

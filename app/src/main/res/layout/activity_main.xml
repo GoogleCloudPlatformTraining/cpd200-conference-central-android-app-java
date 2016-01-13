@@ -3,5 +3,5 @@
     android:id="@+id/container"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.udacity.devrel.training.conference.android.MainActivity"
+    tools:context="com.google.training.cpd200.conference.android.MainActivity"
     tools:ignore="MergeRootFrame" />

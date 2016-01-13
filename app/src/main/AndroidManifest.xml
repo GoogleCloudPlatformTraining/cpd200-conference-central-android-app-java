@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.udacity.devrel.training.conference.android"
+    package="com.google.training.cpd200.conference.android"
     android:versionCode="1"
     android:versionName="1.0" >
     <uses-sdk
@@ -18,7 +18,7 @@
         android:theme="@style/AppTheme">
         <meta-data android:name="com.google.android.gms.version" android:value="@integer/google_play_services_version" />
         <activity
-            android:name="com.udacity.devrel.training.conference.android.MainActivity"
+            android:name="com.google.training.cpd200.conference.android.MainActivity"
             android:label="@string/app_name"
             android:screenOrientation="portrait">
             <intent-filter>
